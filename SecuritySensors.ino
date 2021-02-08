@@ -16,6 +16,11 @@
  * http://www.practicalarduino.com/projects/security-sensors
  */
 
+/* Carlos M. Casado
+* usaré este archivo como esqueleto para hacer un shield para testear el sen sonsor de
+* Pyronix
+*/
+
 // Use analog inputs 0 through 3 for sensor connections A through D
 byte channelAInput = 0;
 byte channelBInput = 1;
