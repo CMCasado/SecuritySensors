@@ -18,20 +18,20 @@
 
 /* Carlos M. Casado
 * usaré este archivo como esqueleto para hacer un shield para testear el sen sonsor de
-* Pyronix
+* Pyronix modelo KK
 */
 
 // Use analog inputs 0 through 3 for sensor connections A through D
 byte channelAInput = 0;
 byte channelBInput = 1;
-byte channelCInput = 2;
-byte channelDInput = 3;
+//byte channelCInput = 2;
+//byte channelDInput = 3;
 
 // Use digital outputs 4 through 7 for status indicator LEDs A through D
 byte channelALed = 4;
 byte channelBLed = 5;
-byte channelCLed = 6;
-byte channelDLed = 7;
+//byte channelCLed = 6;
+//byte channelDLed = 7;
 
 /**
  * Initial configuration
